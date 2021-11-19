@@ -1,2 +1,1 @@
-# mero-kitab
-online library management system
+Welcome to Online Library Managemnent System

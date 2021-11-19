@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeroKitab", "MeroKitab.csproj", "{9F16593A-23BD-482D-BE87-F00B8C12EE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F16593A-23BD-482D-BE87-F00B8C12EE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F16593A-23BD-482D-BE87-F00B8C12EE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F16593A-23BD-482D-BE87-F00B8C12EE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F16593A-23BD-482D-BE87-F00B8C12EE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679B7E76-E424-4C93-8F94-7A9E1691A666}
+	EndGlobalSection
+EndGlobal
